@@ -4,5 +4,5 @@
 
 (function () {
     'use strict';
-    document.getElementById("b_footer").hidden = true;
+    document.getElementById("b_footer").remove();
 })();
